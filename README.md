@@ -5,7 +5,7 @@
 5. Запустите сервер джанго python manage.py runserver
 6. По урлу http://127.0.0.1:8000/files/create введите данные для создания файла в google api drive
 
-7. Так же приложение доступно по адрессу django-server-anlq-production.up.railway.app/files/create
+7. Так же приложение доступно по адрессу https://django-server-anlq-production.up.railway.app/files/create
 
 
 
