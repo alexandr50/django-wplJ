@@ -9,8 +9,8 @@ from googleapiclient.http import MediaFileUpload
 dir_path = pathlib.Path.cwd()
 
 """Создаем пути до файлов с данными для google drive и тестового файла для записи данных"""
-PATH_TO_JSON_FILE = pathlib.Path(dir_path, 'app', 'file', 'data_files', 'data.json')
-PATH_TO_TEST_FILE = pathlib.Path(dir_path, 'app', 'file', 'data_files', 'test.txt')
+PATH_TO_JSON_FILE = pathlib.Path(dir_path, 'file', 'data_files', 'data.json')
+PATH_TO_TEST_FILE = pathlib.Path(dir_path, 'file', 'data_files', 'test.txt')
 
 
 
